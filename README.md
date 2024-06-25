@@ -27,7 +27,7 @@ I am a highly motivated student passionate about developing new technologies and
 - 🔭 I’m currently working on enhancing this page.
 
 ### Connect with Me 🌐
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style='filter: invert(100%);' alt='GitHub' height='40'>](https://github.com/Abdallah-Ghazy)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style='filter: invert(100%);' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/abdallah-ghazy/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' style='filter: invert(100%);' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=100009485341470)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' style='filter: invert(100%);' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCRh59pwh7KTLgfftifu_zrQ)
+[<img src='https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190139.png' style='filter: invert(100%);' alt='GitHub' height='40'>](https://github.com/Abdallah-Ghazy)
+[<img src='https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png' style='filter: invert(100%);' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/abdallah-ghazy/)
+[<img src='https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png' style='filter: invert(100%);' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=100009485341470)
+[<img src='https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png' style='filter: invert(100%);' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCRh59pwh7KTLgfftifu_zrQ)
