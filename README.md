@@ -26,6 +26,9 @@ I am a highly motivated student passionate about developing new technologies and
 
 - 🔭 I’m currently working on enhancing this page.
 
+### Recent Activity
+[Smart Parking with Physical Security](https://www.linkedin.com/posts/abdallah-ghazy_smart-parking-with-physical-security-%D9%85%D8%B1%D9%83%D8%B2-activity-7206349803516051456-ACMG?utm_source=share&utm_medium=member_desktop)
+
 ### Connect with Me 🌐
 [<img src='https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190139.png' style='filter: invert(100%);' alt='GitHub' height='40'>](https://github.com/Abdallah-Ghazy)
 [<img src='https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png' style='filter: invert(100%);' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/abdallah-ghazy/)
